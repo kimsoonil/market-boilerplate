@@ -1,9 +1,11 @@
 {
+  "homepage": "https://kimsoonil.github.io/market-boilerplate/",
   "name": "nemomarket",
   "author": "DeviasIO",
   "licence": "MIT",
   "version": "1.0.0",
   "private": false,
+  
   "scripts": {
     "start": "env-cmd -f .env react-scripts start",
     "build": "CI= env-cmd -f .env.production react-scripts build",
@@ -11,8 +13,8 @@
     "eject": "react-scripts eject",
     "dev": "webpack-dev-server -d --config webpack.prod.js",
     "webpack-build": "webpack --config webpack.clean.js",
-    "predeploy": "react-scripts build",
-    "deploy": "gh-pages -b master -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "proxy": "http://10.140.171.119:8080",
   "eslintConfig": {
