@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Pretendard Bold";
+  src: url(./fonts/Pretendard-Bold.woff2) format("woff2"),
+    url(./fonts/Pretendard-Bold.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Pretendard Regular";
+  src: url(./fonts/Pretendard-Regular.woff2) format("woff2"),
+    url(./fonts/Pretendard-Regular.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Pretendard Light";
+  src: url(./fonts/Pretendard-Light.woff2) format("woff2"),
+    url(./fonts/Pretendard-Light.woff) format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Pretendard ExtraBold";
+  src: url(./fonts/Pretendard-ExtraBold.woff2) format("woff2"),
+    url(./fonts/Pretendard-ExtraBold.woff) format("woff");
+  font-display: swap;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+  -webkit-transition: background-color 9999s ease-out;
+  -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
