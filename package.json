@@ -5,10 +5,9 @@
   "licence": "MIT",
   "version": "1.0.0",
   "private": false,
-  
   "scripts": {
-    "start": "env-cmd -f .env react-scripts start",
-    "build": "CI= env-cmd -f .env.production react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "dev": "webpack-dev-server -d --config webpack.prod.js",
@@ -52,6 +51,7 @@
     "dayjs": "^1.11.2",
     "env-cmd": "^10.1.0",
     "formik": "^2.2.9",
+    "gh-pages": "^4.0.0",
     "history": "^5.0.0",
     "jotai": "^1.6.6",
     "lodash": "^4.17.20",
