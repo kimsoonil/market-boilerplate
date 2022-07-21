@@ -13,7 +13,8 @@
     "dev": "webpack-dev-server -d --config webpack.prod.js",
     "webpack-build": "webpack --config webpack.clean.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "clean": "gh-pages-clean"
   },
   "proxy": "http://10.140.171.119:8080",
   "eslintConfig": {
