@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/market-boilerplate/static/css/main.f29ed44e.chunk.css",
+    "main.js": "/market-boilerplate/static/js/main.cab036e3.chunk.js",
+    "main.js.map": "/market-boilerplate/static/js/main.cab036e3.chunk.js.map",
+    "runtime-main.js": "/market-boilerplate/static/js/runtime-main.febb8e9f.js",
+    "runtime-main.js.map": "/market-boilerplate/static/js/runtime-main.febb8e9f.js.map",
+    "static/css/2.1468693e.chunk.css": "/market-boilerplate/static/css/2.1468693e.chunk.css",
+    "static/js/2.1c4e2690.chunk.js": "/market-boilerplate/static/js/2.1c4e2690.chunk.js",
+    "static/js/2.1c4e2690.chunk.js.map": "/market-boilerplate/static/js/2.1c4e2690.chunk.js.map",
+    "index.html": "/market-boilerplate/index.html",
+    "precache-manifest.b778e5dd9a95b103d61002f4bf4d2a7e.js": "/market-boilerplate/precache-manifest.b778e5dd9a95b103d61002f4bf4d2a7e.js",
+    "service-worker.js": "/market-boilerplate/service-worker.js",
+    "static/css/2.1468693e.chunk.css.map": "/market-boilerplate/static/css/2.1468693e.chunk.css.map",
+    "static/css/main.f29ed44e.chunk.css.map": "/market-boilerplate/static/css/main.f29ed44e.chunk.css.map",
+    "static/js/2.1c4e2690.chunk.js.LICENSE.txt": "/market-boilerplate/static/js/2.1c4e2690.chunk.js.LICENSE.txt",
+    "static/js/main.cab036e3.chunk.js.LICENSE.txt": "/market-boilerplate/static/js/main.cab036e3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/market-boilerplate/static/media/Pretendard-Regular.bcaa3a32.woff",
+    "static/media/slick-theme.css": "/market-boilerplate/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.febb8e9f.js",
+    "static/css/2.1468693e.chunk.css",
+    "static/js/2.1c4e2690.chunk.js",
+    "static/css/main.f29ed44e.chunk.css",
+    "static/js/main.cab036e3.chunk.js"
+  ]
+}
