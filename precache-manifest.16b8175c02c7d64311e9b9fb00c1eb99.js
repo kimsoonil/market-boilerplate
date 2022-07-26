@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12943da586a31ea0938f81dc64c6d634",
+    "revision": "7d68d3edea6adb4db7eddd09859a426d",
     "url": "/market-boilerplate/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market-boilerplate/static/css/2.1468693e.chunk.css"
   },
   {
-    "revision": "965f9f414d29c8d075ad",
+    "revision": "bdb0ce4719cee496cac8",
     "url": "/market-boilerplate/static/css/main.f29ed44e.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market-boilerplate/static/js/2.bd5efb90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "965f9f414d29c8d075ad",
-    "url": "/market-boilerplate/static/js/main.08d8e5be.chunk.js"
+    "revision": "bdb0ce4719cee496cac8",
+    "url": "/market-boilerplate/static/js/main.661ca42c.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/market-boilerplate/static/js/main.08d8e5be.chunk.js.LICENSE.txt"
+    "url": "/market-boilerplate/static/js/main.661ca42c.chunk.js.LICENSE.txt"
   },
   {
     "revision": "1495cdf483858229dd47",
