@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d5e0bb29e5c0382bb69e7e98cdd45a0",
+    "revision": "a561497fbbcfe2e971a884c79a774eeb",
     "url": "/market-boilerplate/index.html"
   },
   {
-    "revision": "e83993085c23ee06e763",
+    "revision": "4e32048269dd3feb12e3",
     "url": "/market-boilerplate/static/css/2.1468693e.chunk.css"
   },
   {
-    "revision": "bd6ed912b322bfdbf256",
+    "revision": "f07a82f624362de2081d",
     "url": "/market-boilerplate/static/css/main.f29ed44e.chunk.css"
   },
   {
-    "revision": "e83993085c23ee06e763",
-    "url": "/market-boilerplate/static/js/2.ac86f97d.chunk.js"
+    "revision": "4e32048269dd3feb12e3",
+    "url": "/market-boilerplate/static/js/2.bd5efb90.chunk.js"
   },
   {
     "revision": "aa59c44645a420ea7e3b9a6a2f4ff551",
-    "url": "/market-boilerplate/static/js/2.ac86f97d.chunk.js.LICENSE.txt"
+    "url": "/market-boilerplate/static/js/2.bd5efb90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd6ed912b322bfdbf256",
-    "url": "/market-boilerplate/static/js/main.075715fe.chunk.js"
+    "revision": "f07a82f624362de2081d",
+    "url": "/market-boilerplate/static/js/main.3e298021.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/market-boilerplate/static/js/main.075715fe.chunk.js.LICENSE.txt"
+    "url": "/market-boilerplate/static/js/main.3e298021.chunk.js.LICENSE.txt"
   },
   {
     "revision": "1495cdf483858229dd47",
