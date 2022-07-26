@@ -35,11 +35,11 @@ const ProductItem = (props) => {
   let productImg = "/static/images/products/products.png";
 
   if (props.producPay !== null) {
-    price = props.producPay.min.toLocaleString() + "원";
+    price = props.producPay.toLocaleString() + "원";
   }
 
   if (props.imageBanner !== null) {
-    productImg = props.imageBanner.url;
+    productImg = props.imageBanner;
   }
   return (
     <Grid item md={3} sm={4} xs={6} className={classes.root}>

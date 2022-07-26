@@ -16,7 +16,6 @@
     "deploy": "gh-pages -d build",
     "clean": "gh-pages-clean"
   },
-  "proxy": "http://10.140.171.119:8080",
   "eslintConfig": {
     "extends": "react-app"
   },

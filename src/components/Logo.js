@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme) => ({
   Logo: {
     minWidth: 130,
     minHeight: 40,
-    backgroundImage: 'url("/static/images/products/main-logo.svg")',
+    backgroundImage: `url(${process.env.PUBLIC_URL}/static/images/products/main-logo.svg)`,
   },
 }));
 

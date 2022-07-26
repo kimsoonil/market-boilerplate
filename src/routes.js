@@ -41,6 +41,7 @@ const routes = [
       { path: "/sign-up", element: <SignUp /> },
       { path: "/email", element: <Email /> },
       { path: "/", element: <Navigate to="/models" /> },
+      { path: "*", element: <Navigate to="/models" /> },
     ],
   },
   { path: "/address", exact: true, element: <AddressPopup /> },
